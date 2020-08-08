@@ -1,1 +1,1 @@
-# Django Practice Projexts From Linkedin Learning
+# Django Practice Projects From Linkedin Learning
